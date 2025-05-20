@@ -9,8 +9,8 @@ This system integrates document preprocessing, semantic chunking, embedding gene
 
 ---
 
-![Architecture Diagram](diagram.svg)
 
+![{Architecture Diagram}](https://github.com/user-attachments/assets/a210e015-e431-44df-ba4d-b20419d031b7)
 
 ---
 
